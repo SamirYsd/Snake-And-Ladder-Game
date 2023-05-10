@@ -1,3 +1,3 @@
 # Snake-And-Ladder-Game
-Academic project which the purpose was to create a simple Snake And Ladder game with two possible players.
+Academic project with a purpose of creating a simple Snake And Ladder game with two to four possible players.
 Used Java to create the game.
